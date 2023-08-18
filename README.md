@@ -1,3 +1,3 @@
 # HexaGamesGUI
 
-Some GUI work I did a while back for a custom script for a client.
+Some GUI work I did to test my roblox dev skills 2 years ago.
